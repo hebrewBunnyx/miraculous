@@ -1,0 +1,1 @@
+RedirectMatch 302 ^/(.*)$ https://err.freewebhostingarea.com/not_allowed.html
